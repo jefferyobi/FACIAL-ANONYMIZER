@@ -8,6 +8,10 @@
 
 `images/` folder contains several sample images for testing.
 
+`Dockerfile` is to create docker containers
+
+`deployment.yaml` is to give instructions to kubernetes in regards to deployment.
+
 ## How to Run
 
 In the terminal, run:
