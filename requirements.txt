@@ -1,0 +1,8 @@
+opencv-python
+mtcnn
+numpy
+argparse
+tensorflow
+pillow
+pyyaml
+Flask==1.1.1
